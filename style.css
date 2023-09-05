@@ -58,7 +58,7 @@ nav a:hover {
 }
 
 .profil-table {
-    width: 1200px;
+    width: 1000px;
     border-collapse: collapse;
     margin: 20px auto;
 }
@@ -124,9 +124,9 @@ h1 {
 }
 .container {
     display: flex;
-    justify-content: center; /* Menengahkan horizontal */
-    align-items: center; /* Menengahkan vertikal */
-    height: 50vh; /* Menggunakan tinggi seluruh viewport */
+    justify-content: center; 
+    align-items: center; 
+    height: 50vh; 
 }
 
 .centered-image {
